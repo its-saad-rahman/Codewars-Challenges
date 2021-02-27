@@ -24,4 +24,3 @@ function getGrade (s1, s2, s3) {
 
 
   }
-console.log(getGrade(70, 70 , 100));
