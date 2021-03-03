@@ -13,4 +13,3 @@ function feast(b, d) {
     //return `${b} ${d}`;
     }
 
-console.log(feast("great blue heron", "garlic naan"));
