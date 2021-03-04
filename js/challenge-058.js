@@ -20,4 +20,3 @@ function weatherInfo (temp) {
     return celsius;
   }
   
-  console.log(weatherInfo(50));
