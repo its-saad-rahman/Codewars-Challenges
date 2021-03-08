@@ -7,7 +7,7 @@ rps('scissors','paper') // Player 1 won!
 rps('scissors','rock') // Player 2 won!
 rps('paper','paper') // Draw! */
 
-const rps = (p1, p2) => {
+function rockPapersScissors(p1, p2) {
     if( p1 === p2){
       return 'Draw!';
     } else if((p1 === 'scissors' &&  p2 === 'paper'  || 

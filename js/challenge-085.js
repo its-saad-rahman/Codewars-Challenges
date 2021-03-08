@@ -28,4 +28,3 @@ var humanYearsCatYearsDogYears = function(humanYears) {
       ]
 }    
 
-console.log((humanYearsCatYearsDogYears(1)));
