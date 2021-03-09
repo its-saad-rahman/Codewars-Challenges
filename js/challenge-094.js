@@ -14,4 +14,4 @@ function sakuraFall(v) {
     // your code here
    return (v > 0) ? (400 / Number(v)) : 0;
     
-    }
+}
